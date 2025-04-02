@@ -6,7 +6,7 @@ This project involved a comprehensive collection of customer feedback data for B
 
 ![Image Alt](https://github.com/eziukwuinnocent/Web-Scrapping-with-Python-Converting-Raw-Unstructured-Data-to-a-Structured-Data/blob/c5766b5a52d8924a17b7df4f931333ffc82f79c2/British_Airways_web_scrape.png)
 
-# Steps and Code Interpretation [code executed with Spyder IDE version 5.15.10 | Python 3.11.7)
+# Steps and Code Interpretation [code executed with Spyder IDE version 5.15.10 | Python 3.11.7]
 
 1. import pandas as pd
 
