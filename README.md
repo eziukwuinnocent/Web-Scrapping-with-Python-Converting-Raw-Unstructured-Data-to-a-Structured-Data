@@ -128,4 +128,6 @@ This line saves the DataFrame df to a CSV file named "BA.csv". The index=True ar
 
 This line will print none, as the to_csv function returns none.
 
+![Image Alt](https://github.com/eziukwuinnocent/Web-Scrapping-with-Python-Converting-Raw-Unstructured-Data-to-a-Structured-Data/blob/999074dbdea9010ef739ea94ee05fa215c6e3b99/Executed_Successfully.PNG)
+
 This code effectively scrapes customer reviews, star ratings, dates, and countries from the specified website, cleans and organizes the data, and saves it to a CSV file.
