@@ -6,7 +6,7 @@ This project involved a comprehensive collection of customer feedback data for B
 
 ![Image Alt](https://github.com/eziukwuinnocent/Web-Scrapping-with-Python-Converting-Raw-Unstructured-Data-to-a-Structured-Data/blob/c5766b5a52d8924a17b7df4f931333ffc82f79c2/British_Airways_web_scrape.png)
 
-# Steps and Code Interpretation
+# Steps and Code Interpretation [code executed with Spyder IDE version 5.15.10 | Python 3.11.7)
 
 1. import pandas as pd
 
@@ -127,3 +127,5 @@ This line saves the DataFrame df to a CSV file named "BA.csv". The index=True ar
 54. print(BA_table)
 
 This line will print none, as the to_csv function returns none.
+
+This code effectively scrapes customer reviews, star ratings, dates, and countries from the specified website, cleans and organizes the data, and saves it to a CSV file.
